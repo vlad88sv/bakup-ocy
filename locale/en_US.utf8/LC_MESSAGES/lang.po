@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OPSAL\n"
+"POT-Creation-Date: 2013-08-01 17:01-0600\n"
+"PO-Revision-Date: 2013-08-01 17:02-0600\n"
+"Last-Translator: Vladimir Hidalgo <vladimiroski@gmail.com>\n"
+"Language-Team: \n"
+"Language: ENGLISH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\Users\\Vladimir\\Documents\\Codigo\\opsal.com\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:158
+msgid "Exportar este reporte"
+msgstr "Export this in"
+
+#: PHP/contenedores.agencia.php:17
+msgid "Opciones de refinado"
+msgstr "Filter options"
+
+#: PHP/contenedores.agencia.php:20
+msgid "Clase(s)"
+msgstr "Class"
+
+#: PHP/contenedores.agencia.php:27 PHP/control.combinado.php:43
+#: PHP/control.combinado.php:58 PHP/control.embarques.php:23
+#: PHP/control.embarques.php:48 PHP/control.ingresos.php:40
+#: PHP/control.ingresos.php:53 PHP/control.patio.php:33
+#: PHP/control.patio.php:46 PHP/control.salidas.php:43
+#: PHP/control.salidas.php:58 PHP/portada.agencia.php:18
+msgid "Tipo"
+msgstr "Type"
+
+#: PHP/contenedores.agencia.php:31
+msgid "Cualquier tipo"
+msgstr "Any kind"
+
+#: PHP/contenedores.agencia.php:70
+msgid "Nivel"
+msgstr "Level"
+
+#: PHP/contenedores.agencia.php:90 PHP/control.combinado.php:30
+#: PHP/control.combinado.php:32 PHP/control.salidas.php:30
+#: PHP/control.salidas.php:32
+msgid "Cualquiera"
+msgstr "Anything"
+
+#: PHP/contenedores.agencia.php:98
+msgid "Información"
+msgstr "Information"
+
+#: PHP/contenedores.agencia.php:99
+msgid "Afectados izq:"
+msgstr "Left shifts"
+
+#: PHP/contenedores.agencia.php:100
+msgid "Afectados der:"
+msgstr "Right shifts:"
+
+#: PHP/control.combinado.php:25
+msgid "Control combinado de entradas y salidas"
+msgstr "Combined report (gate in + gate out)"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.ingresos.php:30 PHP/control.ingresos.php:32
+#: PHP/control.remociones.php:29 PHP/control.remociones.php:31
+#: PHP/control.salidas.php:30 PHP/control.salidas.php:32
+msgid "Fecha inicio:"
+msgstr "Start date:"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.ingresos.php:30 PHP/control.ingresos.php:32
+#: PHP/control.remociones.php:29 PHP/control.remociones.php:31
+#: PHP/control.salidas.php:30 PHP/control.salidas.php:32
+msgid "Fecha final:"
+msgstr "End date:"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.salidas.php:30 PHP/control.salidas.php:32
+msgid "Tipo:"
+msgstr "Type"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.salidas.php:30 PHP/control.salidas.php:32
+msgid "Terrestre"
+msgstr "Ground freight"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.salidas.php:30 PHP/control.salidas.php:32
+msgid "Embarque"
+msgstr "Shipping"
+
+#: PHP/control.combinado.php:30 PHP/control.combinado.php:32
+#: PHP/control.embarques.php:30 PHP/control.remociones.php:29
+#: PHP/control.remociones.php:31 PHP/control.salidas.php:30
+#: PHP/control.salidas.php:32
+msgid "Filtrar"
+msgstr "Filter"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.remociones.php:40 PHP/control.salidas.php:43
+#: PHP/portada.agencia.php:18
+msgid "Contenedor"
+msgstr "Containers"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.salidas.php:43 PHP/portada.agencia.php:18
+#: PHP/portada.agencia.php:60 PHP/portada.agencia.php:92
+msgid "Clase"
+msgstr "Class"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.salidas.php:43 PHP/portada.agencia.php:18
+msgid "Posición"
+msgstr "Position"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.salidas.php:43
+msgid "Ingreso"
+msgstr "Reception"
+
+#: PHP/control.combinado.php:43 PHP/control.ingresos.php:40
+#: PHP/portada.agencia.php:18
+msgid "CEPA"
+msgstr "CEPA"
+
+#: PHP/control.combinado.php:43
+msgid "Transportista<br />ingreso"
+msgstr "Carrier<br/>gate in"
+
+#: PHP/control.combinado.php:43
+msgid "Busque<br />ingreso"
+msgstr "Ship<br />gate in"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.salidas.php:43
+msgid "Salida"
+msgstr "Gate out"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.salidas.php:43
+#: PHP/portada.agencia.php:18
+msgid "Días para expiración de ARIVU"
+msgstr "Days until ARIVU expiration date"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.salidas.php:43
+#: PHP/portada.agencia.php:18
+msgid "DPEA"
+msgstr "DUAE"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.salidas.php:43
+#: PHP/portada.agencia.php:18
+msgid "Días en patio"
+msgstr "Days in yard"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.salidas.php:43
+msgid "DEA"
+msgstr "DUAE"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.salidas.php:43
+msgid "Transportista"
+msgstr "Carrier"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.salidas.php:43
+msgid "Buque"
+msgstr "Ship"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.salidas.php:43
+msgid "Tipo salida"
+msgstr "Gate out"
+
+#: PHP/control.combinado.php:43 PHP/control.embarques.php:23
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+#: PHP/control.salidas.php:43 PHP/portada.agencia.php:18
+msgid "Observaciones"
+msgstr "Notes"
+
+#: PHP/control.combinado.php:47
+#, php-format
+msgid "Reporte de <b>%s</b> entradas y salidas, %s para <b>%s</b>"
+msgstr "Shipping report of <b>%s</b> gate in & gate out, %s for <b>%s</b>"
+
+#: PHP/control.combinado.php:57 PHP/control.embarques.php:47
+#: PHP/control.ingresos.php:52 PHP/control.patio.php:45
+#: PHP/control.remociones.php:50 PHP/control.salidas.php:57
+msgid "<h2>Deglose por tamaño de contenedor</h2>"
+msgstr "<h2>Percentage of containers by size</h2>"
+
+#: PHP/control.combinado.php:58 PHP/control.embarques.php:48
+#: PHP/control.ingresos.php:53 PHP/control.patio.php:46
+#: PHP/control.salidas.php:58 PHP/portada.agencia.php:60
+#: PHP/portada.agencia.php:72 PHP/portada.agencia.php:92
+#: PHP/portada.agencia.php:116
+msgid "Cantidad"
+msgstr "Amount"
+
+#: PHP/control.embarques.php:10
+msgid "Seleccione un buque"
+msgstr "Shipping selection"
+
+#: PHP/control.embarques.php:15
+msgid "despachos"
+msgstr "gate out"
+
+#: PHP/control.embarques.php:23
+msgid "Rem"
+msgstr "# Shifts"
+
+#: PHP/control.embarques.php:27
+msgid "Control de embarques"
+msgstr "Shipping reports"
+
+#: PHP/control.embarques.php:37
+#, php-format
+msgid "Reporte de embarque de <b>%s</b> contenedores para el buque <b>%s</b>"
+msgstr "Shipping report of <b>%s</b> containers for ship <b>%s</b>"
+
+#: PHP/control.ingresos.php:25
+msgid "Generar reporte de recepciones"
+msgstr "Gate in reports"
+
+#: PHP/control.ingresos.php:32
+msgid "Agencia:"
+msgstr "Shipping Co."
+
+#: PHP/control.ingresos.php:40 PHP/portada.agencia.php:18
+msgid "DEP"
+msgstr "DOY"
+
+#: PHP/control.ingresos.php:40
+msgid "# ARIVU"
+msgstr "# ARIVU"
+
+#: PHP/control.ingresos.php:40 PHP/control.patio.php:33
+msgid "ARIVU"
+msgstr "ARIVU"
+
+#: PHP/control.patio.php:17
+msgid "Generar reporte de recepciones para contenedores presentes en patio"
+msgstr "Report of containers currently in yard"
+
+#: PHP/control.patio.php:33
+msgid "Tara"
+msgstr "Tare"
+
+#: PHP/control.patio.php:33
+msgid "Días<br />\\nen<br />\\npatio"
+msgstr "Days<br />\\nin<br />\\nyard"
+
+#: PHP/control.patio.php:33
+msgid "Días<br />\\npara<br />\\nexp.<br />\\nARIVU"
+msgstr "Days<br />\\nuntil<br />\\nARIVU<br />\\nexp."
+
+#: PHP/control.patio.php:37
+#, php-format
+msgid ""
+"<h1>Mostrando recepciones para los <b>%s</b> contenedores actualmente en "
+"patio de <b>%s</b></h1>"
+msgstr ""
+"<h1>Showing gate in operations for <b>%s</b> containers currently on yard "
+"for <b>%s</b></h1>"
+
+#: PHP/control.remociones.php:24
+msgid "Reporte de remociones"
+msgstr "Shiftings report"
+
+#: PHP/control.remociones.php:31
+msgid "Cobrado a:"
+msgstr "Charged to:"
+
+#: PHP/control.remociones.php:40
+msgid "Fecha remoción"
+msgstr "Shift date"
+
+#: PHP/control.remociones.php:40 PHP/portada.agencia.php:18
+msgid "Naviera"
+msgstr "Shipping Co."
+
+#: PHP/control.remociones.php:40
+msgid "Cobrado a"
+msgstr "Charged to:"
+
+#: PHP/control.remociones.php:40
+msgid "Nueva posición"
+msgstr "New position"
+
+#: PHP/control.remociones.php:44
+#, php-format
+msgid ""
+"<h1>Mostrando <b>%s</b> remociones de <b>%s</b> a <b>%s</b> para <b>%s</b></"
+"h1>"
+msgstr ""
+"<h1>Showing <b>%s</b> shifting operations from <b>%s</b> to <b>%s</b> for <b>"
+"%s</b></h1>"
+
+#: PHP/control.salidas.php:14
+msgid "Mostrar todas"
+msgstr "Show all"
+
+#: PHP/control.salidas.php:25
+msgid "Control de salidas"
+msgstr "Dispatch reports"
+
+#: PHP/control.salidas.php:47
+#, php-format
+msgid "Reporte de <b>%s</b> despachos %s para <b>%s</b>"
+msgstr "Shipping report of <b>%s</b> containers, %s for <b>%s</b>"
+
+#: PHP/iniciar.sesion.php:27
+msgid "inicio de sesión"
+msgstr "system login"
+
+#: PHP/iniciar.sesion.php:39
+msgid "Usuario"
+msgstr "User"
+
+#: PHP/iniciar.sesion.php:40
+msgid "Clave"
+msgstr "Password"
+
+#: PHP/iniciar.sesion.php:43
+msgid "Iniciar"
+msgstr "Login"
+
+#: PHP/menu_superior.php:36
+msgid "Contenedores"
+msgstr "Containers"
+
+#: PHP/menu_superior.php:38
+msgid "Módulo de reportes"
+msgstr "Reports"
+
+#: PHP/menu_superior.php:38
+msgid "Reportes"
+msgstr "Reports"
+
+#: PHP/menu_superior.php:40
+msgid "Control patio"
+msgstr "Yard control"
+
+#: PHP/menu_superior.php:40
+msgid "Reporte de patio"
+msgstr "Yard report"
+
+#: PHP/menu_superior.php:41
+msgid "Control ingresos"
+msgstr "Gate in reports"
+
+#: PHP/menu_superior.php:41
+msgid "Reporte recepciones"
+msgstr "Gate in reports"
+
+#: PHP/menu_superior.php:42
+msgid "Control remociones"
+msgstr "Moves"
+
+#: PHP/menu_superior.php:42
+msgid "Reporte remociones"
+msgstr "Shiftings report"
+
+#: PHP/menu_superior.php:43
+msgid "Control embarques"
+msgstr "Shipping reports"
+
+#: PHP/menu_superior.php:43
+msgid "Reporte embarques"
+msgstr "Shipping reports"
+
+#: PHP/menu_superior.php:44
+msgid "Control salidas"
+msgstr "Dispatch reports"
+
+#: PHP/menu_superior.php:44
+msgid "Reporte despachos"
+msgstr "Gate out reports"
+
+#: PHP/menu_superior.php:45
+msgid "Control combinado (ingresos+salidas)"
+msgstr "Combined reporte (gate in + gate out)"
+
+#: PHP/menu_superior.php:45
+msgid "Reporte combinado"
+msgstr "Combined report"
+
+#: PHP/menu_superior.php:49
+msgid "Módulo de patio"
+msgstr "Yard viewer"
+
+#: PHP/menu_superior.php:49
+msgid "Patio"
+msgstr "Yard"
+
+#: PHP/portada.agencia.php:5
+msgid "OPSAL - Contenedores en patio"
+msgstr "OPSAL - Containers in yard"
+
+#: PHP/portada.agencia.php:6
+msgid "Detalle de sus contenedores en patio"
+msgstr "Details of containers in yard"
+
+#: PHP/portada.agencia.php:7
+msgid ""
+"Columnas en rojo marcan contenedores con atención, figurán en esta categoría "
+"aquellos que tengan menos de 30 días restantes de ARIVU o aquellos con mas "
+"de 60 días en patio."
+msgstr ""
+"Values in red means container needs attention as it either has less than 30 "
+"days until ARIVU expires or have more than 60 days of storage."
+
+#: PHP/portada.agencia.php:18
+msgid "Recepción"
+msgstr "Reception"
+
+#: PHP/portada.agencia.php:18
+msgid "Exp. ARIVU"
+msgstr "ARIVU exp."
+
+#: PHP/portada.agencia.php:72 PHP/portada.agencia.php:115
+msgid "Tipo de contenedor"
+msgstr "Container type"
+
+#: PHP/portada.agencia.php:115
+msgid "Tipos de contenedores"
+msgstr "Container types"
+
+#: PHP/portada.agencia.php:115
+msgid "TEU"
+msgstr "TEU"
+
+#: PHP/portada.agencia.php:116
+msgid "Clase de Contenedores"
+msgstr "Containers class"

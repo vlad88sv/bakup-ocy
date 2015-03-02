@@ -1,0 +1,130 @@
+/* This file covers all of the styles used natively within Formitable. Use what you want and discard the rest. */
+
+body{ font-family:arial,verdana,helvetica,sans-serif; font-size: 12px; !important }
+
+.label {
+	font-size:12px;
+	letter-spacing:2px;
+}
+
+.textlabel {
+	font-size:12px;
+	letter-spacing:2px;
+}
+
+.checkboxlabel {
+	font-size:12px;
+	letter-spacing:2px;
+}
+
+.radiolabel {
+	font-size:12px;
+	letter-spacing:2px;
+}
+
+.selectlabel {
+	font-size:12px;
+	letter-spacing:2px;
+}
+
+.font {
+	width:100%;
+}
+
+.err {
+	font-size:10px;
+	color:red;
+}
+
+.errBox {
+	padding:10px;
+	background-color:#F3F4E9;
+	color: #888888;
+	border:1px solid #CCCCCC;
+	margin-bottom:5px;
+	font-size:12px;
+	text-align:left;
+}
+
+.errBoxName {
+	font-weight: bold;
+}
+
+.text {
+	font-family:arial,helvetica,verdana,sans-serif;
+	font-size:12px;
+	color: #888888;
+	width:100%;
+	height:20px;
+	border:1px solid #CCCCCC;
+}
+
+.textarea {
+	font-family:arial,helvetica,verdana,sans-serif;
+	font-size:12px;
+	color: #888888;
+	width:100%;
+	height:125px;
+	border:1px solid #CCCCCC;
+	overflow:auto;
+	scrollbar-track-color: #CCCCCC;
+	scrollbar-face-color: white;
+	scrollbar-highlight-color: white;
+	scrollbar-3dlight-color: white;
+	scrollbar-darkshadow-color: white;
+	scrollbar-shadow-color: white;
+	scrollbar-arrow-color: #888888;
+}
+
+.select {
+	font-family:arial,helvetica,verdana,sans-serif;
+	font-size:12px;
+	color: #888888;
+	width:100%;
+	height:19px;
+}
+
+.multiselect {
+	font-family:arial,helvetica,verdana,sans-serif;
+	font-size:12px;
+	color: #888888;
+	width:100%;
+	height:75px;
+}
+
+.fieldset {
+	border:1px solid #CCCCCC;
+	padding:3px;
+}
+
+.legend {
+	border:1px solid #CCCCCC;
+	padding:3px;
+	letter-spacing:2px;
+}
+
+.button { text-align:center; }
+	
+.button input {
+	font-family:arial,helvetica,verdana,sans-serif;
+	font-size:12px;
+	color: #888888;
+	letter-spacing:2px;
+	border:1px solid #CCCCCC;
+	background-color:white;
+	width:146px;
+	margin:2px;
+	cursor:pointer;
+	cursor:hand;
+}
+
+.boxed{
+	padding:7px;
+	width:316px;
+	text-align:left;
+	font-size:12px;
+	border:1px solid #888888;
+	margin:5px;
+}
+
+.boxed h3{ margin-top:0px; }

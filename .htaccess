@@ -1,0 +1,12 @@
+ErrorDocument 404 /index.php?peticion=error
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^(.*)\.html$ index.php?peticion=$1 [L,QSA]
+RewriteRule ^(ajax)$ $1.php [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/imagen_([0-9]+)_([0-9]+)_([a-za-z0-9]{40})(\.jpg){0,1}$
+RewriteCond %{DOCUMENT_ROOT}/IMG/i/m/%1_%2_%3 -f
+RewriteRule ^imagen_([0-9]+)_([0-9]+)_([a-za-z0-9]{40})(\.jpg){0,1}$ %{DOCUMENT_ROOT}/IMG/i/m/$1_$2_$3 [L]
+RewriteRule ^imagen_([0-9]+)_([0-9]+)_([a-za-z0-9]{40})(\.jpg){0,1}$ imagen.php?tipo=normal&ancho=$1&alto=$2&sha1=$3 [L]
