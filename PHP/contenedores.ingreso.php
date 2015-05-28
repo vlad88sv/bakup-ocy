@@ -77,7 +77,7 @@ if (mysqli_num_rows($r) > 0)
         <input type="radio" name="tipo_contenedor" id="clase_fl" value="FL"/>
         <label for="clase_fl">FL</label>&nbsp;
         
-        <input type="radio" name="tipo_contenedor" id="clase_tq" value="FR"/>
+        <input type="radio" name="tipo_contenedor" id="clase_tq" value="TQ"/>
         <label for="clase_tq">TQ</label>&nbsp;        
         </div>
         </td></tr>
